@@ -1,6 +1,6 @@
 # Building
 Running `make` should be sufficient.
-Note: You have to have `x11-dev` installed if you're using linux.
+Note: You have to have `libx11-dev` installed if you're using linux.
 
 # Running
 Just run the `example` or `example.exe` file depending on which platform you are running.
